@@ -6,6 +6,8 @@ Computer with MATLAB software
 
 ## Theory:
 ![WhatsApp Image 2025-11-27 at 21 32 25_5cf0d601](https://github.com/user-attachments/assets/5700ab83-349c-4604-90b7-d10db3384bb7)
+![WhatsApp Image 2025-11-27 at 23 16 04_9839295b](https://github.com/user-attachments/assets/82aa6639-fbda-4362-9a29-375eebde61c7)
+
 
 
 
